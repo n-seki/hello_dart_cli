@@ -1,0 +1,8 @@
+name: hello_world_dart_cli
+
+environment:
+  sdk: '>= 2.7.0 < 3.0.0'
+
+dependencies:
+  args: ^1.5.0
+  intl: ^0.16.1
