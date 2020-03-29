@@ -34,6 +34,6 @@ class HelloWorld {
     for (var operation in createOperators(argResults)) {
       result = operation.run(result);
     }
-    print("${result}\n");
+    stdout.write("${result}\n");
   }
 }
