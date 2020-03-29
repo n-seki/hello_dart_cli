@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:args/args.dart';
-import 'package:hello_world_dart_cli/src/operators/operators.dart';
+import 'package:hello_dart_cli/src/operators/operators.dart';
 
 import 'define.dart';
 

@@ -1,6 +1,6 @@
 import 'package:args/args.dart';
-import 'package:hello_world_dart_cli/operator.dart';
-import 'package:hello_world_dart_cli/define.dart';
+import 'package:hello_dart_cli/operator.dart';
+import 'package:hello_dart_cli/define.dart';
 
 class UpperCaseOperator extends Operator {
 

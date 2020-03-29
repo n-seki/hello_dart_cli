@@ -1,4 +1,4 @@
-name: hello_world_dart_cli
+name: hello_dart_cli
 
 environment:
   sdk: '>= 2.7.0 < 3.0.0'
